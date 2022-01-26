@@ -1,0 +1,23 @@
+.bg-button {
+    background:#7b53c1;
+  }
+
+.button {
+      width: 350px;
+      height: 40px;
+  }
+
+.button-entrar {
+      color: rgb(255, 255, 255);
+  }
+
+.cor-entrar {
+    color:#7b53c1;
+  }
+.mb {
+    margin-bottom: 196px;
+  }
+  .bg {
+    background: linear-gradient(50deg,rgb(142, 252, 237),rgb(111, 1, 214)) ;
+
+  }

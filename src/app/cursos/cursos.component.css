@@ -1,0 +1,52 @@
+.sub-titulo {
+    margin: 50px 0px 15px 170px;
+}
+
+.curso {
+    border-radius: 10px;
+    box-shadow: 3px 10px 20px 3px rgb(95, 91, 97);
+    height: 320px;
+    width: 230px;
+    margin: 0px 25px 0px 20px;
+    padding: 5px;
+}
+
+.curso:hover {
+    box-shadow: 5px 10px 20px 5px rgba(180, 70, 231, 0.521);
+    border-radius: 10px;
+    height: 330px;
+    width: 240px;
+    margin: 30px;
+    padding: 5px;
+    background-color: rgb(215, 147, 218);
+}
+
+.curso img {
+    width: 100%;
+    max-height: 50%;
+}
+
+.curso-info {
+    padding: 15px;
+    height: 50px;
+    overflow: hidden;
+    font-size: 1.3em;
+    margin: 0px;
+}
+.botao {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+.botaoStyle {
+    background-color: red;
+    border-radius: 10px;
+    border: solid 2px red;
+    color: rgb(15, 15, 15);
+}
+.botaoStyle:hover {
+    background-color: rgb(84, 233, 20);
+    border-radius: 10px;
+    border: solid 5px rgb(84, 233, 20);
+    color: rgb(15, 15, 15);
+}
